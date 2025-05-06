@@ -136,17 +136,6 @@ hotel-management/
 - **users/bookings.php**: User's booking list page
 - **users/calendar.php**: Calendar view of user's bookings
 
-## Future Enhancements
-
-Potential features to add in the future:
-1. Advanced search functionality
-2. Rating and review system
-3. Payment gateway integration
-4. Email notifications for bookings
-5. Multiple room types for hotels
-6. Reports and analytics
-7. Multi-language support
-
 ## Troubleshooting
 
 - **Database Connection Issues**: Check your database credentials in `config/db_connect.php`
