@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
 
 <div class="jumbotron bg-primary text-white p-5 rounded">
-    <h1 class="display-4">Welcome to Hotel Management System</h1>
+    <h1 class="display-4">Welcome to Hotely. Where your dreams start</h1>
     <p class="lead">Find the perfect hotel for your next vacation or business trip.</p>
     <hr class="my-4">
     <p>Browse our selection of high-quality hotels and book your stay today.</p>
